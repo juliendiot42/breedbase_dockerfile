@@ -16,8 +16,6 @@ git clone https://github.com/GMOD/chado_tools.git repos/chado_tools
 git clone https://github.com/solgenomics/sgn-devtools.git repos/sgn-devtools
 git clone https://github.com/solgenomics/solGS.git repos/solGS
 git clone https://github.com/solgenomics/starmachine.git repos/starmachine
-git clone https://github.com/GMOD/Chado repos/Chado
-git clone https://github.com/GMOD/chado_tools repos/chado_tools
 git clone https://github.com/GMOD/Bio-Chado-Schema repos/Bio-Chado-Schema
 git clone https://github.com/solgenomics/DroneImageScripts.git repos/DroneImageScripts
 git clone --branch 4.1.0 --depth 1 https://github.com/opencv/opencv repos/opencv
